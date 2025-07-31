@@ -1,4 +1,4 @@
 # Bharat-pal
 This is my first repository
 <br>
-author-Bharat pal
+author-Bharat pal (bharat)
